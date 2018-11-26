@@ -928,6 +928,7 @@ You look at him, suprised.
 \"Yeah, can you help me?\"
 \"Let's see about that meat first.\"
 """
+        print(SCENE)
         playerTurn('begger')
         
 def scene14(scene):
